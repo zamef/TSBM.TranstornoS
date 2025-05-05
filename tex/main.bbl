@@ -1,0 +1,371 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/apasortcite//global/global/global}
+    \entry{cramer}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8490f25d4edb627d3bc2e7dde0f0ac1}{%
+           family={Cramer},
+           familyi={C\bibinitperiod},
+           given={Jan\bibnamedelima Salomon},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{fullhash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{fullhashraw}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{bibnamehash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{authorbibnamehash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{authornamehash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{authorfullhash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{authorfullhashraw}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TI}
+      \field{title}{The Origins of Logistic Regression}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{friedman}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce884cc144616c39e723a8fe2eb3c879}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Jerome\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{fullhash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{fullhashraw}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{bibnamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorbibnamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authornamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorfullhash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorfullhashraw}{ce884cc144616c39e723a8fe2eb3c879}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Greedy Function Approximation: A Gradient Boosting Machine.}
+      \field{year}{1999}
+    \endentry
+    \entry{cunningham}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5322941b8332d56c20676583a7faa35}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Pádraig},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acd23d68440c8f218c06e751ece47eda}{%
+           family={Delany},
+           familyi={D\bibinitperiod},
+           given={Sarah\bibnamedelima Jane},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{fullhash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{fullhashraw}{34a6508f6a7dffaa575a26154965e986}
+      \strng{bibnamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorbibnamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authornamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorfullhash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorfullhashraw}{34a6508f6a7dffaa575a26154965e986}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys}
+      \field{title}{k-Nearest Neighbour Classifiers - A Tutorial}
+      \field{year}{2021}
+    \endentry
+    \entry{novakovic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b92ef98b15862d687cf406826c825511}{%
+           family={Novakovic},
+           familyi={N\bibinitperiod},
+           given={Jasmina},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d880f06999b072aab38072224e58008b}{%
+           family={Veljovic},
+           familyi={V\bibinitperiod},
+           given={Alempije},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{fullhash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{fullhashraw}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{bibnamehash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{authorbibnamehash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{authornamehash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{authorfullhash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{authorfullhashraw}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE 9th International Symposium on Intelligent Systems and Informatics}
+      \field{title}{C-Support Vector Classification: Selection of Kernel and Parameters in Medical Diagnosis}
+      \field{year}{2011}
+      \verb{doi}
+      \verb doi:10.1109/sisy.2011.6034373
+      \endverb
+    \endentry
+    \entry{cutler}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ea9492aa5759b3542d9fe2f1d62b3412}{%
+           family={Cutler},
+           familyi={C\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce30f89908ee29f3ac972bd5e44e200e}{%
+           family={Cutler},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima Richard},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=233f858f15a7902ed883b10a5a2527bf}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a36e29b7c7ddd3f9ccf6dc194bd1e7c9}
+      \strng{fullhash}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{fullhashraw}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{bibnamehash}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{authorbibnamehash}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{authornamehash}{a36e29b7c7ddd3f9ccf6dc194bd1e7c9}
+      \strng{authorfullhash}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{authorfullhashraw}{843e004ecc2a01afafbe5f06b9e1142c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ensemble Machine Learning}
+      \field{title}{Random Forests}
+      \field{year}{2012}
+      \field{pages}{157\bibrangedash 175}
+      \range{pages}{19}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1007/978-1-4419-9326-7_5
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{none/global//global/global/global}
+    \entry{cramer}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c8490f25d4edb627d3bc2e7dde0f0ac1}{%
+           family={Cramer},
+           familyi={C\bibinitperiod},
+           given={Jan\bibnamedelima Salomon},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{fullhash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{fullhashraw}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{bibnamehash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{authorbibnamehash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{authornamehash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{authorfullhash}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \strng{authorfullhashraw}{c8490f25d4edb627d3bc2e7dde0f0ac1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TI}
+      \field{title}{The Origins of Logistic Regression}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{friedman}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce884cc144616c39e723a8fe2eb3c879}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Jerome\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{fullhash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{fullhashraw}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{bibnamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorbibnamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authornamehash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorfullhash}{ce884cc144616c39e723a8fe2eb3c879}
+      \strng{authorfullhashraw}{ce884cc144616c39e723a8fe2eb3c879}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Greedy Function Approximation: A Gradient Boosting Machine.}
+      \field{year}{1999}
+    \endentry
+    \entry{cunningham}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a5322941b8332d56c20676583a7faa35}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Pádraig},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acd23d68440c8f218c06e751ece47eda}{%
+           family={Delany},
+           familyi={D\bibinitperiod},
+           given={Sarah\bibnamedelima Jane},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{fullhash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{fullhashraw}{34a6508f6a7dffaa575a26154965e986}
+      \strng{bibnamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorbibnamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authornamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorfullhash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorfullhashraw}{34a6508f6a7dffaa575a26154965e986}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys}
+      \field{title}{k-Nearest Neighbour Classifiers - A Tutorial}
+      \field{year}{2021}
+    \endentry
+    \entry{novakovic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b92ef98b15862d687cf406826c825511}{%
+           family={Novakovic},
+           familyi={N\bibinitperiod},
+           given={Jasmina},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d880f06999b072aab38072224e58008b}{%
+           family={Veljovic},
+           familyi={V\bibinitperiod},
+           given={Alempije},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{fullhash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{fullhashraw}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{bibnamehash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{authorbibnamehash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{authornamehash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{authorfullhash}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \strng{authorfullhashraw}{54ea8c3ce5f9c42c93d86b059df84cc0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE 9th International Symposium on Intelligent Systems and Informatics}
+      \field{title}{C-Support Vector Classification: Selection of Kernel and Parameters in Medical Diagnosis}
+      \field{year}{2011}
+      \verb{doi}
+      \verb doi:10.1109/sisy.2011.6034373
+      \endverb
+    \endentry
+    \entry{cutler}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ea9492aa5759b3542d9fe2f1d62b3412}{%
+           family={Cutler},
+           familyi={C\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce30f89908ee29f3ac972bd5e44e200e}{%
+           family={Cutler},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima Richard},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=233f858f15a7902ed883b10a5a2527bf}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a36e29b7c7ddd3f9ccf6dc194bd1e7c9}
+      \strng{fullhash}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{fullhashraw}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{bibnamehash}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{authorbibnamehash}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{authornamehash}{a36e29b7c7ddd3f9ccf6dc194bd1e7c9}
+      \strng{authorfullhash}{843e004ecc2a01afafbe5f06b9e1142c}
+      \strng{authorfullhashraw}{843e004ecc2a01afafbe5f06b9e1142c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ensemble Machine Learning}
+      \field{title}{Random Forests}
+      \field{year}{2012}
+      \field{pages}{157\bibrangedash 175}
+      \range{pages}{19}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1007/978-1-4419-9326-7_5
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
